@@ -54,3 +54,12 @@ round brackets: complete web adress
 
 when you want to use a picture put ! in front
 ! [rabbit](https://www.google.de/search?q=rabbit&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBxO_x5NLeAhVEKY8KHaJkDGgQ_AUIDigB&biw=1168&bih=668#imgrc=_Gsr8wmswL8fiM:)
+
+
+
+----------------------------
+
+this repository contains some methods and results for my experiments
+please look at [results](/results/) 
+#everything is key sensitive (folder names)
+
