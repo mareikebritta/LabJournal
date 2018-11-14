@@ -51,3 +51,6 @@ connecting stuff to document using square and round brackets
 square brackets: word which is used for linking
 round brackets: complete web adress
 [etherpad](https://pad.carpentries.org/2018-11-13-otago-dc)
+
+when you want to use a picture put ! in front
+! [rabbit](https://www.google.de/search?q=rabbit&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBxO_x5NLeAhVEKY8KHaJkDGgQ_AUIDigB&biw=1168&bih=668#imgrc=_Gsr8wmswL8fiM:)
