@@ -20,3 +20,10 @@ put backslash before asteriks "\*"
 ## combination
 you can combine both **bold** and *italics* by using a combination of asterisks and underscores
 _**combination of both**_
+
+you can rule lines like this:
+use 3x times \* or - or _
+
+---
+___
+***
