@@ -44,3 +44,10 @@ use either asterisks or minus sign
     
 ## check list
 - [ ] ceck box by doing minus and square brackets with space inbetween brackets
+
+
+# Links and Images
+connecting stuff to document using square and round brackets
+square brackets: word which is used for linking
+round brackets: complete web adress
+[etherpad](https://pad.carptentries.org/2018-11-13-otago-dc)
