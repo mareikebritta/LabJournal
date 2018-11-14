@@ -19,3 +19,10 @@ install.packages("tidyverse")
 install(tidyverse)
 ```
 codes could also be like this `echo, hello world`
+
+# Tables
+you can make simple tables by using pipe symbol and minus signs
+
+|column 1| column 2| column 3 |
+|--------:|--------:|---------:|
+|**bold** | text | *italic*|
