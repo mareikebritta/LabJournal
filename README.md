@@ -62,4 +62,6 @@ when you want to use a picture put ! in front
 this repository contains some methods and results for my experiments
 please look at [results](/results/) 
 #everything is key sensitive (folder names)
+please look at [methods](/Methods/) for up to date methods
+please look at [GeneralNotes](/GeneralNotes/) for my lab log
 
