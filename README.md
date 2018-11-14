@@ -26,3 +26,21 @@ you can make simple tables by using pipe symbol and minus signs
 |column 1| column 2| column 3 |
 |--------:|--------:|---------:|
 |**bold** | text | *italic*|
+
+
+## Item Lists
+### ordered list
+
+1. this is the first item
+    1. sub item (using two tab stop)
+1. this is the second item
+1. this is the third item
+
+## unordered list
+use either asterisks or minus sign
+* item 1
+    - item 2 (two tab stop)
+    * item 3 (four spaces)
+    
+## check list
+- [ ] ceck box by doing minus and square brackets with space inbetween brackets
