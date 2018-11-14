@@ -50,4 +50,4 @@ use either asterisks or minus sign
 connecting stuff to document using square and round brackets
 square brackets: word which is used for linking
 round brackets: complete web adress
-[etherpad](https://pad.carptentries.org/2018-11-13-otago-dc)
+[etherpad](https://pad.carpentries.org/2018-11-13-otago-dc)
